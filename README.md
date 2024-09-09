@@ -1,3 +1,5 @@
+[Notes overview](https://github.com/TheAbys/devops-bootcamp-certification-project/blob/master/README.md)
+
 # 16 - Helm Demo - Managed K8s cluster
 
 Create linode account
